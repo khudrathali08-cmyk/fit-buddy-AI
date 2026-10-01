@@ -1,1 +1,1 @@
-# fit-buddy-AI
+# fitbuddy-AI
